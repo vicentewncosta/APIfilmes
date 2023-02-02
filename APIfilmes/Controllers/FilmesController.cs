@@ -18,5 +18,5 @@ namespace APIfilmes.Controllers;
             Console.WriteLine(filme.Titulo);
             Console.WriteLine(filme.Duracao);
             Console.WriteLine(filme.Genero);
-    }
+        }
     }
